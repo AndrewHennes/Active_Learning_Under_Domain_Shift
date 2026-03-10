@@ -1,0 +1,10 @@
+{
+  "smiles_col": "SMILES",
+  "target_cols": [
+    "Hit"
+  ],
+  "metadata_keys": [
+    "SMILES",
+    "Hit"
+  ]
+}
